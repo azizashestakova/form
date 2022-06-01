@@ -1,0 +1,14 @@
+.main {
+  margin: 0 15px;
+}
+
+.notification {
+  font-size: 14px;
+  line-height: 14px;
+  color: var(--color-brown-40);
+  margin-top: 20px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
